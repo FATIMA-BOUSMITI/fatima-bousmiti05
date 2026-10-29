@@ -50,12 +50,9 @@ Work on a transport application built with Flutter, Spring Boot, and PostgreSQL,
 
 ### 🎓 Agora Campus — Robot Framework Automation
 
-Test automation work for **Agora Campus** using **Robot Framework**.
+Contributed to test automation for **Agora Campus** using **Robot Framework**, with a focus on designing test scenarios and automating functional checks.
 
-This project extends my hands-on practice in designing test scenarios and automating functional checks.
-
-<!-- Add the Agora Campus repository link when available. -->
-
+[🔎 Explore the Project](https://github.com/sofiastron/AgoraCampus)
 ## 🎯 My QA Approach
 
 - Understand application behavior and business risks.
